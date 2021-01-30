@@ -22,5 +22,5 @@ No, our model does not have a slope of zero since the relationship between our Y
          P-value of .1852 shows that it is not statistically significant at any alpha level.
 ### SUMMARY STATISTICS
 
-![image]()
+![image](https://github.com/nypasha1928/MechaCar_Statistical_Analysis/blob/main/images/SUMMARY%20STATISTICS.png)
          
