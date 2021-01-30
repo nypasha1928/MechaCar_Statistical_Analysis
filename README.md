@@ -29,19 +29,19 @@ No, our model does not have a slope of zero since the relationship between our Y
 
 ### Lot1 vs PopMean
 
-![image]()
+![image](https://github.com/nypasha1928/MechaCar_Statistical_Analysis/blob/main/images/Lot1%20vs%20PopMean.png)
 
 #### From this test and with a p-value of .9048, this is not statitically signifcant since we do not have enough evidence to reject the null hypothesis, thus these two numbers are statistically similar.
 
 ### Lot2 vs PopMean
 
-![image]()
+![image](https://github.com/nypasha1928/MechaCar_Statistical_Analysis/blob/main/images/Lot2%20vs%20PopMean.png)
 
 #### From this test and with a p-value of .3451, this is not statitically signifcant since we do not have enough evidence to reject the null hypothesis, thus these two numbers are statistically similar.
 
 ### Lot3 vs PopMean
 
-![image]()
+![image](https://github.com/nypasha1928/MechaCar_Statistical_Analysis/blob/main/images/Lot3%20vs%20PopMean.png)
 
 #### From this test and with a p-value of .637, this is not statitically signifcant since we do not have enough evidence to reject the null hypothesis, thus these two numbers are statistically similar.
 
